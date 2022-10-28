@@ -1,5 +1,7 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "Tank": {
+    "PV": { "int": {} },
+    "PSI": { "int": {} },
+    "Status": { "string": {} },
   }
 }
