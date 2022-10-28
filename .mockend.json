@@ -3,9 +3,6 @@
     "statusMessage": {
       "string": {}
     },
-    "color": {
-      "regexp": "#[0-9A-F]{6}"
-    },
     "PSI": {
       "int": {
         "min": 21,
