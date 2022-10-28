@@ -1,7 +1,11 @@
 {
   "User": {
     "statusMessage": {
-      "string": {}
+      "string": [
+        "Manual Operation",
+        "Automatic Operation",
+        "Fault"
+      ]
     },
     "PSI": {
       "int": {
