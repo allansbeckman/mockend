@@ -3,7 +3,6 @@
     "name": {
       "string": {}
     },
-    { "PSI": { "int": { "min": 0, "max": 1000000 } } },
     "statusMessage": {
       "string": {}
     },
@@ -13,7 +12,7 @@
     "color": {
       "regexp": "#[0-9A-F]{6}"
     },
-    "age": {
+    "PSI": {
       "int": {
         "min": 21,
         "max": 100
